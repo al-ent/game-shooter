@@ -147,5 +147,6 @@ while run:
             finish = True
             window.blit(win, (200, 200))
 
+#test
         display.update()
     time.delay(50)
